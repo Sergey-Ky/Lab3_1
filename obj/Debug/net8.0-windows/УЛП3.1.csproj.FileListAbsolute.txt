@@ -1,0 +1,16 @@
+C:\Users\Blender\source\repos\лабораторная работа 1\УЛП3.1\bin\Debug\net8.0-windows\УЛП3.1.exe
+C:\Users\Blender\source\repos\лабораторная работа 1\УЛП3.1\bin\Debug\net8.0-windows\УЛП3.1.deps.json
+C:\Users\Blender\source\repos\лабораторная работа 1\УЛП3.1\bin\Debug\net8.0-windows\УЛП3.1.runtimeconfig.json
+C:\Users\Blender\source\repos\лабораторная работа 1\УЛП3.1\bin\Debug\net8.0-windows\УЛП3.1.dll
+C:\Users\Blender\source\repos\лабораторная работа 1\УЛП3.1\bin\Debug\net8.0-windows\УЛП3.1.pdb
+C:\Users\Blender\source\repos\лабораторная работа 1\УЛП3.1\obj\Debug\net8.0-windows\УЛП3._1.Form1.resources
+C:\Users\Blender\source\repos\лабораторная работа 1\УЛП3.1\obj\Debug\net8.0-windows\УЛП3.1.csproj.GenerateResource.cache
+C:\Users\Blender\source\repos\лабораторная работа 1\УЛП3.1\obj\Debug\net8.0-windows\УЛП3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blender\source\repos\лабораторная работа 1\УЛП3.1\obj\Debug\net8.0-windows\УЛП3.1.AssemblyInfoInputs.cache
+C:\Users\Blender\source\repos\лабораторная работа 1\УЛП3.1\obj\Debug\net8.0-windows\УЛП3.1.AssemblyInfo.cs
+C:\Users\Blender\source\repos\лабораторная работа 1\УЛП3.1\obj\Debug\net8.0-windows\УЛП3.1.csproj.CoreCompileInputs.cache
+C:\Users\Blender\source\repos\лабораторная работа 1\УЛП3.1\obj\Debug\net8.0-windows\УЛП3.1.dll
+C:\Users\Blender\source\repos\лабораторная работа 1\УЛП3.1\obj\Debug\net8.0-windows\refint\УЛП3.1.dll
+C:\Users\Blender\source\repos\лабораторная работа 1\УЛП3.1\obj\Debug\net8.0-windows\УЛП3.1.pdb
+C:\Users\Blender\source\repos\лабораторная работа 1\УЛП3.1\obj\Debug\net8.0-windows\УЛП3.1.genruntimeconfig.cache
+C:\Users\Blender\source\repos\лабораторная работа 1\УЛП3.1\obj\Debug\net8.0-windows\ref\УЛП3.1.dll

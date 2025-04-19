@@ -1,0 +1,16 @@
+C:\Users\ser20\OneDrive\Рабочий стол\Lab3_1\bin\Debug\net8.0-windows\Lab3_1.exe
+C:\Users\ser20\OneDrive\Рабочий стол\Lab3_1\bin\Debug\net8.0-windows\Lab3_1.deps.json
+C:\Users\ser20\OneDrive\Рабочий стол\Lab3_1\bin\Debug\net8.0-windows\Lab3_1.runtimeconfig.json
+C:\Users\ser20\OneDrive\Рабочий стол\Lab3_1\bin\Debug\net8.0-windows\Lab3_1.dll
+C:\Users\ser20\OneDrive\Рабочий стол\Lab3_1\bin\Debug\net8.0-windows\Lab3_1.pdb
+C:\Users\ser20\OneDrive\Рабочий стол\Lab3_1\obj\Debug\net8.0-windows\Lab3_1.Form1.resources
+C:\Users\ser20\OneDrive\Рабочий стол\Lab3_1\obj\Debug\net8.0-windows\Lab3_1.csproj.GenerateResource.cache
+C:\Users\ser20\OneDrive\Рабочий стол\Lab3_1\obj\Debug\net8.0-windows\Lab3_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ser20\OneDrive\Рабочий стол\Lab3_1\obj\Debug\net8.0-windows\Lab3_1.AssemblyInfoInputs.cache
+C:\Users\ser20\OneDrive\Рабочий стол\Lab3_1\obj\Debug\net8.0-windows\Lab3_1.AssemblyInfo.cs
+C:\Users\ser20\OneDrive\Рабочий стол\Lab3_1\obj\Debug\net8.0-windows\Lab3_1.csproj.CoreCompileInputs.cache
+C:\Users\ser20\OneDrive\Рабочий стол\Lab3_1\obj\Debug\net8.0-windows\Lab3_1.dll
+C:\Users\ser20\OneDrive\Рабочий стол\Lab3_1\obj\Debug\net8.0-windows\refint\Lab3_1.dll
+C:\Users\ser20\OneDrive\Рабочий стол\Lab3_1\obj\Debug\net8.0-windows\Lab3_1.pdb
+C:\Users\ser20\OneDrive\Рабочий стол\Lab3_1\obj\Debug\net8.0-windows\Lab3_1.genruntimeconfig.cache
+C:\Users\ser20\OneDrive\Рабочий стол\Lab3_1\obj\Debug\net8.0-windows\ref\Lab3_1.dll
